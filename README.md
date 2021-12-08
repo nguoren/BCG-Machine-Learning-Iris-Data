@@ -22,4 +22,5 @@
 5. There are multiple overlapping of data points for species Versicolor and Virginica within the range of 2.5cm <= Sepal_Width <= 3.2cm, and 4.9cm <= Sepal_Length <= 7.0cm, which makes it difficult to identify between these 2 species
 
 ## KNN Model
+- K = 3 model used
 - Model accuracy: 96%
