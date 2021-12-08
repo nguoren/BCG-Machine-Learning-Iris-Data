@@ -16,7 +16,10 @@
 
 ## Insights Gathered
 1. Setosa are found to have 0.1cm <= Petal_Width <= 0.6cm, and 1.0cm <= Petal_Length < 2.0cm
-2. At Petal_Width of 1.4cm and 1.5cm, species of Versicolor and Virginica can be found, but distinction is that Virginica has larger Petal_Length of 5.0cm or more
-3. As the Petal_Width increases to 1.6cm, there is overlap of the data points for Versicolor and Virginica. However, this is only limited to the range of 1.6cm <= Petal_Width <= 1.7cm and 4.5cm <= Petal_Length <= 5.8cm
-4. Setosa is the species that is the easiest to identify with 2.3cm <= Sepal_Width <= 4.4cm and 4.3cm <= Sepal_Length <= 5.8cm
-5. There are multiple overlapping of data points for species Versicolor and Virginica within the range of 2.5cm <= Sepal_Width <= 3.2cm and 4.9cm <= Sepal_Length <= 7.0cm which makes it difficult to identify between these 2 species
+2. At Petal_Width of 1.4cm and 1.5cm, species of Versicolor and Virginica can be found, but the distinction is that Virginica has larger Petal_Length of 5.0cm or more
+3. As the Petal_Width increases to 1.6cm, there is overlap of the data points for Versicolor and Virginica. However, this is only limited to the range of 1.6cm <= Petal_Width <= 1.7cm, and 4.5cm <= Petal_Length <= 5.8cm
+4. Setosa is the species that is the easiest to identify with 2.3cm <= Sepal_Width <= 4.4cm, and 4.3cm <= Sepal_Length <= 5.8cm
+5. There are multiple overlapping of data points for species Versicolor and Virginica within the range of 2.5cm <= Sepal_Width <= 3.2cm, and 4.9cm <= Sepal_Length <= 7.0cm, which makes it difficult to identify between these 2 species
+
+## KNN Model
+- Model accuracy: 96%
