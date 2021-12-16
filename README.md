@@ -1,4 +1,4 @@
-# BCG-Machine-Learning-Iris-Data
+# Machine-Learning-Iris-Data
 
 <p align="center"><img src="https://i.imgur.com/w1lItTL.png"></p>
 
