@@ -5,7 +5,7 @@
 ## Project Introduction
 - Use K-Nearest Neighbor (KNN) algorithm to classify the species of Iris flowers with measurements of the flower characteristics
 - Machine learning process includes data exploration, data preparation, modeling and model evaluation
-- LINK: https://github.com/nguoren/BCG-Machine-Learning-Iris-Data/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20K-Nearest%20Neighbour%20(KNN)%20-%20Iris%20Data%20Set.ipynb
+- LINK: https://github.com/nguoren/BCG-Machine-Learning-Iris-Flower-Classification/blob/main/DigitalBCG%20Academy%20-%20Machine%20Learning%20-%20K-Nearest%20Neighbour%20(KNN)%20-%20Iris%20Data%20Set.ipynb
 
 ## Introduction to Iris Data Set
 - The first publication of this famous data set in the history of statistics was made by pioneering statistician, Ronald A Fisher, in 1936
